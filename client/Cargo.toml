@@ -3,6 +3,7 @@ name = "avail-light-client"
 version = "1.12.4"
 build = "../build.rs"
 edition = "2021"
+type="non"
 description = "Avail network p2p Light Client"
 
 [dependencies]
